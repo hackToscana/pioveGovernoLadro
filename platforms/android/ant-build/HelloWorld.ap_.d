@@ -40,6 +40,7 @@
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/spec.html \
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/cordova_plugins.js \
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/css \
+/home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/plugins \
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/index.html \
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/js/index.js \
 /home/nicola/hacks/mobile/pioveGovernoLadro/platforms/android/assets/www/res/icon \
